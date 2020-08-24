@@ -2,7 +2,7 @@
   
 ### About Me:    
 - 🎓 I'm currently a Computer Science student ('23) at UCLA.  
-- 🖥️ I love programming and experimenting with the newest technologies.  
+- 🖥️ I love programming and experimenting with the newest technologies!  
 - 🎸 I also love music, and play the guitar! View my [last.fm](https://last.fm/user/dadur604)! 
   
   
