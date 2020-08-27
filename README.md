@@ -21,7 +21,7 @@
 - 🎨 Creative: Adobe Suite (Photoshop, Premiere, InDesign, Illustrator), Audio Production (Ableton)  
 
   
-### Contact:
+### Find me:
 - 📧 Email: narekdaduryan@gmail.com  
 - 👍 LinkedIn: [linkedin.com/in/ndaduryan](https://linkedin.com/in/ndaduryan)
 
