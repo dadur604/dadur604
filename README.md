@@ -7,9 +7,7 @@
   
   
 ### My Projects:    
-- 🔨 I’m currently working on creating games in Unity:  
-  - ⚖️ Creating Law-Education games with [TransMedia Inc (Objection!)](https://objection.com)
-  - ♟️ Creating a one-of-a-kind VR Chess game that integrates with LiChess and Chess.Com at [UCLA DevX](https://ucladevx.com)
+- ♟️ Creating a one-of-a-kind VR Chess game that integrates with LiChess and Chess.Com at [UCLA DevX](https://ucladevx.com)
 - 💡 I'm working on a personal project: [ԱԲԳ Կապիկ (ABC Gabig)](https://abcgabig.com)  
   - 🏫 Planned to be an online e-learning platform to learn Armenian!
   - 🐵 Կապիկ (Gabig) means Monkey in Armenian!
