@@ -11,7 +11,8 @@
 - 🔨 Infrastructure, CI/CD, Deployments  
   
 ### My Projects:    
-- 💡 I'm working on a personal project: [ԱԲԳ Կապիկ (ABC Gabig)](https://abcgabig.com)  
+- 💡 I'm working on a personal project: [ԱԲԳ Կապիկ (ABC Gabig)](https://abcgabig.com)
+  - 🔨 Working as Full Stack Developer. Using React + pixi.js + WebGL + Webpack, AWS + Postgres + Express + Stripe
   - 🏫 Planned to be an online e-learning platform to learn Armenian!
   - 🐵 Կապիկ (Gabig) means Monkey in Armenian!
 - 🐦 Created Boid Artificial Life simulation in [2D](https://github.com/dadur604/boids) and in [3D](https://github.com/dadur604/boids-3d)
